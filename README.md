@@ -1,9 +1,6 @@
 # PhD Research: Compression of Large Language Models (LLMs)
 
-**PhD Candidate:** Ayoub Abraich  
-**Institution:** Mohammed VI Polytechnic University (UM6P)  
-**Advisors:** Pr. Ismail BERRADA, Pr. Imad KISSAMI  
-**Start Date:** June 2025
+**Author:** Ayoub Abraich  
 
 ## 🎯 Research Focus
 
