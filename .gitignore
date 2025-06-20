@@ -1,0 +1,91 @@
+# PhD Research Repository .gitignore
+
+# Temporary files
+*.tmp
+*.temp
+*~
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor files
+.vscode/settings.json
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Research specific
+papers/*/pdfs/
+datasets/large-files/
+code/checkpoints/
+code/models/
+code/outputs/
+experiments/large-results/
+
+# Bibliography
+tools/bibliography/zotero-backup/
+*.bak
+
+# Personal notes (if you want to keep some private)
+# personal-notes/
+# private-drafts/
+
+# Large files
+*.pdf
+*.zip
+*.tar.gz
+*.rar
+
+# Except important PDFs you want to track
+!papers/key-papers/*.pdf
+!resources/important-docs/*.pdf
+
+# LaTeX
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+
+# Presentations
+*.pptx
+*.ppt
+!presentations/templates/*.pptx
