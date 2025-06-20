@@ -29,9 +29,9 @@ This repository organizes my PhD research on Large Language Model compression te
 ## 📚 Reading Progress
 
 ### Current Status
-- **Papers Read:** 0
+- **Papers Read:** 48
 - **Papers in Queue:** 200+
-- **Summary Notes:** 0
+- **Summary Notes:** 48
 - **Last Updated:** 2025-06-20
 
 ## 🗂️ Repository Organization

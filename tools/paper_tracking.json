@@ -1,0 +1,653 @@
+{
+  "papers": {
+    "2506.15622v1_Models-for-cyclic-infinity-operads": {
+      "title": "Models for cyclic infinity operads",
+      "category": "08-other-techniques",
+      "file_path": "papers/08-other-techniques/notes/2506.15622v1_Models-for-cyclic-infinity-operads.md",
+      "status": "🔴 Not Started",
+      "priority": "⭐ High / 🎯 Core Research / 📚 Background",
+      "date_added": "2025-06-20",
+      "arxiv_id": "2506.15622v1",
+      "authors": "Brandon Doherty, Philip Hackney",
+      "tags": [
+        "arxiv"
+      ]
+    },
+    "2506.15629v1_Revisiting-Compositional-Generalization-Capability-of-Large-": {
+      "title": "Revisiting Compositional Generalization Capability of Large Language Models Considering Instruction Following Ability",
+      "category": "08-other-techniques",
+      "file_path": "papers/08-other-techniques/notes/2506.15629v1_Revisiting-Compositional-Generalization-Capability-of-Large-.md",
+      "status": "🔴 Not Started",
+      "priority": "⭐ High / 🎯 Core Research / 📚 Background",
+      "date_added": "2025-06-20",
+      "arxiv_id": "2506.15629v1",
+      "authors": "Yusuke Sakai, Hidetaka Kamigaito, Taro Watanabe",
+      "tags": [
+        "arxiv"
+      ]
+    },
+    "2506.15683v1_PhantomHunter-Detecting-Unseen-Privately-Tuned-LLM-Generated": {
+      "title": "PhantomHunter: Detecting Unseen Privately-Tuned LLM-Generated Text via Family-Aware Learning",
+      "category": "08-other-techniques",
+      "file_path": "papers/08-other-techniques/notes/2506.15683v1_PhantomHunter-Detecting-Unseen-Privately-Tuned-LLM-Generated.md",
+      "status": "🔴 Not Started",
+      "priority": "⭐ High / 🎯 Core Research / 📚 Background",
+      "date_added": "2025-06-20",
+      "arxiv_id": "2506.15683v1",
+      "authors": "Yuhui Shi, Yehan Yang, Qiang Sheng et 4 autres",
+      "tags": [
+        "arxiv"
+      ]
+    },
+    "2506.15655v1_cAST-Enhancing-Code-Retrieval-Augmented-Generation-with-Stru": {
+      "title": "cAST: Enhancing Code Retrieval-Augmented Generation with Structural Chunking via Abstract Syntax Tree",
+      "category": "08-other-techniques",
+      "file_path": "papers/08-other-techniques/notes/2506.15655v1_cAST-Enhancing-Code-Retrieval-Augmented-Generation-with-Stru.md",
+      "status": "🔴 Not Started",
+      "priority": "⭐ High / 🎯 Core Research / 📚 Background",
+      "date_added": "2025-06-20",
+      "arxiv_id": "2506.15655v1",
+      "authors": "Yilin Zhang, Xinran Zhao, Zora Zhiruo Wang et 3 autres",
+      "tags": [
+        "arxiv"
+      ]
+    },
+    "2506.15673v1_UniRelight-Learning-Joint-Decomposition-and-Synthesis-for-Vi": {
+      "title": "UniRelight: Learning Joint Decomposition and Synthesis for Video Relighting",
+      "category": "08-other-techniques",
+      "file_path": "papers/08-other-techniques/notes/2506.15673v1_UniRelight-Learning-Joint-Decomposition-and-Synthesis-for-Vi.md",
+      "status": "🔴 Not Started",
+      "priority": "⭐ High / 🎯 Core Research / 📚 Background",
+      "date_added": "2025-06-20",
+      "arxiv_id": "2506.15673v1",
+      "authors": "Kai He, Ruofan Liang, Jacob Munkberg et 7 autres",
+      "tags": [
+        "arxiv"
+      ]
+    },
+    "2506.15662v1_CC-LEARN-Cohort-based-Consistency-Learning": {
+      "title": "CC-LEARN: Cohort-based Consistency Learning",
+      "category": "08-other-techniques",
+      "file_path": "papers/08-other-techniques/notes/2506.15662v1_CC-LEARN-Cohort-based-Consistency-Learning.md",
+      "status": "🔴 Not Started",
+      "priority": "⭐ High / 🎯 Core Research / 📚 Background",
+      "date_added": "2025-06-20",
+      "arxiv_id": "2506.15662v1",
+      "authors": "Xiao Ye, Shaswat Shrivastava, Zhaonan Li et 6 autres",
+      "tags": [
+        "arxiv"
+      ]
+    },
+    "2506.15638v1_Mitigating-sloppiness-in-joint-estimation-of-successive-sque": {
+      "title": "Mitigating sloppiness in joint estimation of successive squeezing parameters",
+      "category": "01-quantization",
+      "file_path": "papers/01-quantization/notes/2506.15638v1_Mitigating-sloppiness-in-joint-estimation-of-successive-sque.md",
+      "status": "🔴 Not Started",
+      "priority": "⭐ High / 🎯 Core Research / 📚 Background",
+      "date_added": "2025-06-20",
+      "arxiv_id": "2506.15638v1",
+      "authors": "Priyanka Sharma, Stefano Olivares, Devendra Kumar Mishra et 1 autres",
+      "tags": [
+        "arxiv"
+      ]
+    },
+    "2506.15623v1_Minding-the-Politeness-Gap-in-Cross-cultural-Communication": {
+      "title": "Minding the Politeness Gap in Cross-cultural Communication",
+      "category": "01-quantization",
+      "file_path": "papers/01-quantization/notes/2506.15623v1_Minding-the-Politeness-Gap-in-Cross-cultural-Communication.md",
+      "status": "🔴 Not Started",
+      "priority": "⭐ High / 🎯 Core Research / 📚 Background",
+      "date_added": "2025-06-20",
+      "arxiv_id": "2506.15623v1",
+      "authors": "Yuka Machino, Matthias Hofer, Max Siegel et 2 autres",
+      "tags": [
+        "arxiv"
+      ]
+    },
+    "2506.15463v1_Effect-of-Signal-Quantization-on-Performance-Measures-of-a-1": {
+      "title": "Effect of Signal Quantization on Performance Measures of a 1st Order One Dimensional Differential Microphone Array",
+      "category": "01-quantization",
+      "file_path": "papers/01-quantization/notes/2506.15463v1_Effect-of-Signal-Quantization-on-Performance-Measures-of-a-1.md",
+      "status": "🔴 Not Started",
+      "priority": "⭐ High / 🎯 Core Research / 📚 Background",
+      "date_added": "2025-06-20",
+      "arxiv_id": "2506.15463v1",
+      "authors": "Shweta Pal, Arun Kumar, Monika Agrawal",
+      "tags": [
+        "arxiv"
+      ]
+    },
+    "2506.15291v1_Classical-quantum-systems-breaking-conservation-laws": {
+      "title": "Classical-quantum systems breaking conservation laws",
+      "category": "01-quantization",
+      "file_path": "papers/01-quantization/notes/2506.15291v1_Classical-quantum-systems-breaking-conservation-laws.md",
+      "status": "🔴 Not Started",
+      "priority": "⭐ High / 🎯 Core Research / 📚 Background",
+      "date_added": "2025-06-20",
+      "arxiv_id": "2506.15291v1",
+      "authors": "Masahiro Hotta, Sebastian Murk, Daniel R. Terno",
+      "tags": [
+        "arxiv"
+      ]
+    },
+    "2506.15632v1_Heavy-Ball-and-Nesterov-Accelerations-with-Hessian-driven-Da": {
+      "title": "Heavy Ball and Nesterov Accelerations with Hessian-driven Damping for Nonconvex Optimization",
+      "category": "06-systems-serving",
+      "file_path": "papers/06-systems-serving/notes/2506.15632v1_Heavy-Ball-and-Nesterov-Accelerations-with-Hessian-driven-Da.md",
+      "status": "🔴 Not Started",
+      "priority": "⭐ High / 🎯 Core Research / 📚 Background",
+      "date_added": "2025-06-20",
+      "arxiv_id": "2506.15632v1",
+      "authors": "N. Hadjisavvas, F. Lara, R. T. Marcavillaca et 1 autres",
+      "tags": [
+        "arxiv"
+      ]
+    },
+    "2506.15682v1_Evolutionary-Caching-to-Accelerate-Your-Off-the-Shelf-Diffus": {
+      "title": "Evolutionary Caching to Accelerate Your Off-the-Shelf Diffusion Model",
+      "category": "06-systems-serving",
+      "file_path": "papers/06-systems-serving/notes/2506.15682v1_Evolutionary-Caching-to-Accelerate-Your-Off-the-Shelf-Diffus.md",
+      "status": "🔴 Not Started",
+      "priority": "⭐ High / 🎯 Core Research / 📚 Background",
+      "date_added": "2025-06-20",
+      "arxiv_id": "2506.15682v1",
+      "authors": "Anirud Aggarwal, Abhinav Shrivastava, Matthew Gwilliam",
+      "tags": [
+        "arxiv"
+      ]
+    },
+    "2506.15647v1_Exploring-and-Exploiting-the-Inherent-Efficiency-within-Larg": {
+      "title": "Exploring and Exploiting the Inherent Efficiency within Large Reasoning Models for Self-Guided Efficiency Enhancement",
+      "category": "06-systems-serving",
+      "file_path": "papers/06-systems-serving/notes/2506.15647v1_Exploring-and-Exploiting-the-Inherent-Efficiency-within-Larg.md",
+      "status": "🔴 Not Started",
+      "priority": "⭐ High / 🎯 Core Research / 📚 Background",
+      "date_added": "2025-06-20",
+      "arxiv_id": "2506.15647v1",
+      "authors": "Weixiang Zhao, Jiahe Guo, Yang Deng et 7 autres",
+      "tags": [
+        "arxiv"
+      ]
+    },
+    "2506.15663v1_Wavefunction-branches-demand-a-definition": {
+      "title": "Wavefunction branches demand a definition!",
+      "category": "06-systems-serving",
+      "file_path": "papers/06-systems-serving/notes/2506.15663v1_Wavefunction-branches-demand-a-definition.md",
+      "status": "🔴 Not Started",
+      "priority": "⭐ High / 🎯 Core Research / 📚 Background",
+      "date_added": "2025-06-20",
+      "arxiv_id": "2506.15663v1",
+      "authors": "C. Jess Riedel",
+      "tags": [
+        "arxiv"
+      ]
+    },
+    "2506.15631v1_Automatic-generation-of-density-fitting-auxiliary-basis-sets": {
+      "title": "Automatic generation of density fitting auxiliary basis sets for all electron Dirac-Kohn-Sham calculations",
+      "category": "06-systems-serving",
+      "file_path": "papers/06-systems-serving/notes/2506.15631v1_Automatic-generation-of-density-fitting-auxiliary-basis-sets.md",
+      "status": "🔴 Not Started",
+      "priority": "⭐ High / 🎯 Core Research / 📚 Background",
+      "date_added": "2025-06-20",
+      "arxiv_id": "2506.15631v1",
+      "authors": "Nicolo' Antonini, Enrico Ronca, Loriano Storchi et 1 autres",
+      "tags": [
+        "arxiv"
+      ]
+    },
+    "2506.15618v1_The-Infinity-Galaxy-a-Candidate-Direct-Collapse-Supermassive": {
+      "title": "The Infinity Galaxy: a Candidate Direct-Collapse Supermassive Black Hole Between Two Massive, Ringed Nuclei",
+      "category": "06-systems-serving",
+      "file_path": "papers/06-systems-serving/notes/2506.15618v1_The-Infinity-Galaxy-a-Candidate-Direct-Collapse-Supermassive.md",
+      "status": "🔴 Not Started",
+      "priority": "⭐ High / 🎯 Core Research / 📚 Background",
+      "date_added": "2025-06-20",
+      "arxiv_id": "2506.15618v1",
+      "authors": "Pieter van Dokkum, Gabriel Brammer, Josephine F. W. Baggen et 3 autres",
+      "tags": [
+        "arxiv"
+      ]
+    },
+    "2506.15652v1_A-Machine-Learning-Framework-for-Modeling-Ensemble-Propertie": {
+      "title": "A Machine Learning Framework for Modeling Ensemble Properties of Atomically Disordered Materials",
+      "category": "06-systems-serving",
+      "file_path": "papers/06-systems-serving/notes/2506.15652v1_A-Machine-Learning-Framework-for-Modeling-Ensemble-Propertie.md",
+      "status": "🔴 Not Started",
+      "priority": "⭐ High / 🎯 Core Research / 📚 Background",
+      "date_added": "2025-06-20",
+      "arxiv_id": "2506.15652v1",
+      "authors": "Zhenyao Fang, Ting-Wei Hsu, Qimin Yan",
+      "tags": [
+        "arxiv"
+      ]
+    },
+    "2506.15670v1_Near-Field-SWIPT-with-gMIMO-in-the-Upper-Mid-Band-Opportunit": {
+      "title": "Near-Field SWIPT with gMIMO in the Upper Mid-Band: Opportunities, Challenges, and the Way Forward",
+      "category": "06-systems-serving",
+      "file_path": "papers/06-systems-serving/notes/2506.15670v1_Near-Field-SWIPT-with-gMIMO-in-the-Upper-Mid-Band-Opportunit.md",
+      "status": "🔴 Not Started",
+      "priority": "⭐ High / 🎯 Core Research / 📚 Background",
+      "date_added": "2025-06-20",
+      "arxiv_id": "2506.15670v1",
+      "authors": "Özlem Tugfe Demir, Mustafa Ozger, Ferdi Kara et 2 autres",
+      "tags": [
+        "arxiv"
+      ]
+    },
+    "2506.15432v1_Side-Channel-Extraction-of-Dataflow-AI-Accelerator-Hardware-": {
+      "title": "Side-Channel Extraction of Dataflow AI Accelerator Hardware Parameters",
+      "category": "06-systems-serving",
+      "file_path": "papers/06-systems-serving/notes/2506.15432v1_Side-Channel-Extraction-of-Dataflow-AI-Accelerator-Hardware-.md",
+      "status": "🔴 Not Started",
+      "priority": "⭐ High / 🎯 Core Research / 📚 Background",
+      "date_added": "2025-06-20",
+      "arxiv_id": "2506.15432v1",
+      "authors": "Guillaume Lomet, Ruben Salvador, Brice Colombier et 3 autres",
+      "tags": [
+        "arxiv"
+      ]
+    },
+    "2506.15671v1_Quantum-inspired-algorithm-for-simulating-viral-response": {
+      "title": "Quantum-inspired algorithm for simulating viral response",
+      "category": "06-systems-serving",
+      "file_path": "papers/06-systems-serving/notes/2506.15671v1_Quantum-inspired-algorithm-for-simulating-viral-response.md",
+      "status": "🔴 Not Started",
+      "priority": "⭐ High / 🎯 Core Research / 📚 Background",
+      "date_added": "2025-06-20",
+      "arxiv_id": "2506.15671v1",
+      "authors": "D. O. Konina, D. I. Korbashov, I. V. Kovalchuk et 3 autres",
+      "tags": [
+        "arxiv"
+      ]
+    },
+    "2506.15649v1_Dual-Stage-Value-Guided-Inference-with-Margin-Based-Reward-A": {
+      "title": "Dual-Stage Value-Guided Inference with Margin-Based Reward Adjustment for Fast and Faithful VLM Captioning",
+      "category": "06-systems-serving",
+      "file_path": "papers/06-systems-serving/notes/2506.15649v1_Dual-Stage-Value-Guided-Inference-with-Margin-Based-Reward-A.md",
+      "status": "🔴 Not Started",
+      "priority": "⭐ High / 🎯 Core Research / 📚 Background",
+      "date_added": "2025-06-20",
+      "arxiv_id": "2506.15649v1",
+      "authors": "Ankan Deria, Adinath Madhavrao Dukre, Feilong Tang et 5 autres",
+      "tags": [
+        "arxiv"
+      ]
+    },
+    "2506.15619v1_Further-Evidence-for-a-Direct-Collapse-Origin-of-the-Superma": {
+      "title": "Further Evidence for a Direct-Collapse Origin of the Supermassive Black Hole at the Center of the Infinity Galaxy",
+      "category": "06-systems-serving",
+      "file_path": "papers/06-systems-serving/notes/2506.15619v1_Further-Evidence-for-a-Direct-Collapse-Origin-of-the-Superma.md",
+      "status": "🔴 Not Started",
+      "priority": "⭐ High / 🎯 Core Research / 📚 Background",
+      "date_added": "2025-06-20",
+      "arxiv_id": "2506.15619v1",
+      "authors": "Pieter van Dokkum, Gabriel Brammer, Connor Jennings et 2 autres",
+      "tags": [
+        "arxiv"
+      ]
+    },
+    "2506.15672v1_SwarmAgentic-Towards-Fully-Automated-Agentic-System-Generati": {
+      "title": "SwarmAgentic: Towards Fully Automated Agentic System Generation via Swarm Intelligence",
+      "category": "06-systems-serving",
+      "file_path": "papers/06-systems-serving/notes/2506.15672v1_SwarmAgentic-Towards-Fully-Automated-Agentic-System-Generati.md",
+      "status": "🔴 Not Started",
+      "priority": "⭐ High / 🎯 Core Research / 📚 Background",
+      "date_added": "2025-06-20",
+      "arxiv_id": "2506.15672v1",
+      "authors": "Yao Zhang, Chenyang Lin, Shijie Tang et 4 autres",
+      "tags": [
+        "arxiv"
+      ]
+    },
+    "2506.15316v1_J3DAI-A-tiny-DNN-Based-Edge-AI-Accelerator-for-3D-Stacked-CM": {
+      "title": "J3DAI: A tiny DNN-Based Edge AI Accelerator for 3D-Stacked CMOS Image Sensor",
+      "category": "06-systems-serving",
+      "file_path": "papers/06-systems-serving/notes/2506.15316v1_J3DAI-A-tiny-DNN-Based-Edge-AI-Accelerator-for-3D-Stacked-CM.md",
+      "status": "🔴 Not Started",
+      "priority": "⭐ High / 🎯 Core Research / 📚 Background",
+      "date_added": "2025-06-20",
+      "arxiv_id": "2506.15316v1",
+      "authors": "Benoit Tain, Raphael Millet, Romain Lemaire et 9 autres",
+      "tags": [
+        "arxiv"
+      ]
+    },
+    "2506.15666v1_Vision-in-Action-Learning-Active-Perception-from-Human-Demon": {
+      "title": "Vision in Action: Learning Active Perception from Human Demonstrations",
+      "category": "06-systems-serving",
+      "file_path": "papers/06-systems-serving/notes/2506.15666v1_Vision-in-Action-Learning-Active-Perception-from-Human-Demon.md",
+      "status": "🔴 Not Started",
+      "priority": "⭐ High / 🎯 Core Research / 📚 Background",
+      "date_added": "2025-06-20",
+      "arxiv_id": "2506.15666v1",
+      "authors": "Haoyu Xiong, Xiaomeng Xu, Jimmy Wu et 3 autres",
+      "tags": [
+        "arxiv"
+      ]
+    },
+    "2506.15251v1_Singular-Value-Decomposition-on-Kronecker-Adaptation-for-Lar": {
+      "title": "Singular Value Decomposition on Kronecker Adaptation for Large Language Model",
+      "category": "06-systems-serving",
+      "file_path": "papers/06-systems-serving/notes/2506.15251v1_Singular-Value-Decomposition-on-Kronecker-Adaptation-for-Lar.md",
+      "status": "🔴 Not Started",
+      "priority": "⭐ High / 🎯 Core Research / 📚 Background",
+      "date_added": "2025-06-20",
+      "arxiv_id": "2506.15251v1",
+      "authors": "Yee Hin Chong, Peng Qu",
+      "tags": [
+        "arxiv"
+      ]
+    },
+    "2506.15009v1_Six-DoF-Hand-Based-Teleoperation-for-Omnidirectional-Aerial-": {
+      "title": "Six-DoF Hand-Based Teleoperation for Omnidirectional Aerial Robots",
+      "category": "06-systems-serving",
+      "file_path": "papers/06-systems-serving/notes/2506.15009v1_Six-DoF-Hand-Based-Teleoperation-for-Omnidirectional-Aerial-.md",
+      "status": "🔴 Not Started",
+      "priority": "⭐ High / 🎯 Core Research / 📚 Background",
+      "date_added": "2025-06-20",
+      "arxiv_id": "2506.15009v1",
+      "authors": "Jinjie Li, Jiaxuan Li, Kotaro Kaneko et 2 autres",
+      "tags": [
+        "arxiv"
+      ]
+    },
+    "2506.15654v1_CAWR-Corruption-Averse-Advantage-Weighted-Regression-for-Rob": {
+      "title": "CAWR: Corruption-Averse Advantage-Weighted Regression for Robust Policy Optimization",
+      "category": "06-systems-serving",
+      "file_path": "papers/06-systems-serving/notes/2506.15654v1_CAWR-Corruption-Averse-Advantage-Weighted-Regression-for-Rob.md",
+      "status": "🔴 Not Started",
+      "priority": "⭐ High / 🎯 Core Research / 📚 Background",
+      "date_added": "2025-06-20",
+      "arxiv_id": "2506.15654v1",
+      "authors": "Ranting Hu",
+      "tags": [
+        "arxiv"
+      ]
+    },
+    "2506.15642v1_Flips-Reveal-the-Universal-Impact-of-Memory-on-Random-Explor": {
+      "title": "Flips Reveal the Universal Impact of Memory on Random Explorations",
+      "category": "05-kv-cache-compression",
+      "file_path": "papers/05-kv-cache-compression/notes/2506.15642v1_Flips-Reveal-the-Universal-Impact-of-Memory-on-Random-Explor.md",
+      "status": "🔴 Not Started",
+      "priority": "⭐ High / 🎯 Core Research / 📚 Background",
+      "date_added": "2025-06-20",
+      "arxiv_id": "2506.15642v1",
+      "authors": "Julien Brémont, Léo Régnier, Alex Barbier--Chebbah et 2 autres",
+      "tags": [
+        "arxiv"
+      ]
+    },
+    "2506.15648v1_deepSURF-Detecting-Memory-Safety-Vulnerabilities-in-Rust-Thr": {
+      "title": "deepSURF: Detecting Memory Safety Vulnerabilities in Rust Through Fuzzing LLM-Augmented Harnesses",
+      "category": "05-kv-cache-compression",
+      "file_path": "papers/05-kv-cache-compression/notes/2506.15648v1_deepSURF-Detecting-Memory-Safety-Vulnerabilities-in-Rust-Thr.md",
+      "status": "🔴 Not Started",
+      "priority": "⭐ High / 🎯 Core Research / 📚 Background",
+      "date_added": "2025-06-20",
+      "arxiv_id": "2506.15648v1",
+      "authors": "Georgios Androutsopoulos, Antonio Bianchi",
+      "tags": [
+        "arxiv"
+      ]
+    },
+    "2506.15684v1_Nabla-R2D3-Effective-and-Efficient-3D-Diffusion-Alignment-wi": {
+      "title": "Nabla-R2D3: Effective and Efficient 3D Diffusion Alignment with 2D Rewards",
+      "category": "05-kv-cache-compression",
+      "file_path": "papers/05-kv-cache-compression/notes/2506.15684v1_Nabla-R2D3-Effective-and-Efficient-3D-Diffusion-Alignment-wi.md",
+      "status": "🔴 Not Started",
+      "priority": "⭐ High / 🎯 Core Research / 📚 Background",
+      "date_added": "2025-06-20",
+      "arxiv_id": "2506.15684v1",
+      "authors": "Qingming Liu, Zhen Liu, Dinghuai Zhang et 1 autres",
+      "tags": [
+        "arxiv"
+      ]
+    },
+    "2506.15653v1_Fokker-Planck-Score-Learning-Efficient-Free-Energy-Estimatio": {
+      "title": "Fokker-Planck Score Learning: Efficient Free-Energy Estimation under Periodic Boundary Conditions",
+      "category": "05-kv-cache-compression",
+      "file_path": "papers/05-kv-cache-compression/notes/2506.15653v1_Fokker-Planck-Score-Learning-Efficient-Free-Energy-Estimatio.md",
+      "status": "🔴 Not Started",
+      "priority": "⭐ High / 🎯 Core Research / 📚 Background",
+      "date_added": "2025-06-20",
+      "arxiv_id": "2506.15653v1",
+      "authors": "Daniel Nagel, Tristan Bereau",
+      "tags": [
+        "arxiv"
+      ]
+    },
+    "2506.15675v1_Sekai-A-Video-Dataset-towards-World-Exploration": {
+      "title": "Sekai: A Video Dataset towards World Exploration",
+      "category": "05-kv-cache-compression",
+      "file_path": "papers/05-kv-cache-compression/notes/2506.15675v1_Sekai-A-Video-Dataset-towards-World-Exploration.md",
+      "status": "🔴 Not Started",
+      "priority": "⭐ High / 🎯 Core Research / 📚 Background",
+      "date_added": "2025-06-20",
+      "arxiv_id": "2506.15675v1",
+      "authors": "Zhen Li, Chuanhao Li, Xiaofeng Mao et 17 autres",
+      "tags": [
+        "arxiv"
+      ]
+    },
+    "2506.15613v1_From-Block-to-Byte-Transforming-PCIe-SSDs-with-CXL-Memory-Pr": {
+      "title": "From Block to Byte: Transforming PCIe SSDs with CXL Memory Protocol and Instruction Annotation",
+      "category": "05-kv-cache-compression",
+      "file_path": "papers/05-kv-cache-compression/notes/2506.15613v1_From-Block-to-Byte-Transforming-PCIe-SSDs-with-CXL-Memory-Pr.md",
+      "status": "🔴 Not Started",
+      "priority": "⭐ High / 🎯 Core Research / 📚 Background",
+      "date_added": "2025-06-20",
+      "arxiv_id": "2506.15613v1",
+      "authors": "Miryeong Kwon, Donghyun Gouk, Junhyeok Jang et 8 autres",
+      "tags": [
+        "arxiv"
+      ]
+    },
+    "2506.15541v1_Intrinsic-and-Extrinsic-Organized-Attention-Softmax-Invarian": {
+      "title": "Intrinsic and Extrinsic Organized Attention: Softmax Invariance and Network Sparsity",
+      "category": "05-kv-cache-compression",
+      "file_path": "papers/05-kv-cache-compression/notes/2506.15541v1_Intrinsic-and-Extrinsic-Organized-Attention-Softmax-Invarian.md",
+      "status": "🔴 Not Started",
+      "priority": "⭐ High / 🎯 Core Research / 📚 Background",
+      "date_added": "2025-06-20",
+      "arxiv_id": "2506.15541v1",
+      "authors": "Oluwadamilola Fasina, Ruben V. C. Pohle, Pei-Chun Su et 1 autres",
+      "tags": [
+        "arxiv"
+      ]
+    },
+    "2506.15645v1_Demystifying-the-Visual-Quality-Paradox-in-Multimodal-Large-": {
+      "title": "Demystifying the Visual Quality Paradox in Multimodal Large Language Models",
+      "category": "05-kv-cache-compression",
+      "file_path": "papers/05-kv-cache-compression/notes/2506.15645v1_Demystifying-the-Visual-Quality-Paradox-in-Multimodal-Large-.md",
+      "status": "🔴 Not Started",
+      "priority": "⭐ High / 🎯 Core Research / 📚 Background",
+      "date_added": "2025-06-20",
+      "arxiv_id": "2506.15645v1",
+      "authors": "Shuo Xing, Lanqing Guo, Hongyuan Hua et 5 autres",
+      "tags": [
+        "arxiv"
+      ]
+    },
+    "2506.15656v1_PhishDebate-An-LLM-Based-Multi-Agent-Framework-for-Phishing-": {
+      "title": "PhishDebate: An LLM-Based Multi-Agent Framework for Phishing Website Detection",
+      "category": "02-pruning-sparsity",
+      "file_path": "papers/02-pruning-sparsity/notes/2506.15656v1_PhishDebate-An-LLM-Based-Multi-Agent-Framework-for-Phishing-.md",
+      "status": "🔴 Not Started",
+      "priority": "⭐ High / 🎯 Core Research / 📚 Background",
+      "date_added": "2025-06-20",
+      "arxiv_id": "2506.15656v1",
+      "authors": "Wenhao Li, Selvakumar Manickam, Yung-wey Chong et 1 autres",
+      "tags": [
+        "arxiv"
+      ]
+    },
+    "2506.15301v1_Cohort-Discovery-A-Survey-on-LLM-Assisted-Clinical-Trial-Rec": {
+      "title": "Cohort Discovery: A Survey on LLM-Assisted Clinical Trial Recruitment",
+      "category": "02-pruning-sparsity",
+      "file_path": "papers/02-pruning-sparsity/notes/2506.15301v1_Cohort-Discovery-A-Survey-on-LLM-Assisted-Clinical-Trial-Rec.md",
+      "status": "🔴 Not Started",
+      "priority": "⭐ High / 🎯 Core Research / 📚 Background",
+      "date_added": "2025-06-20",
+      "arxiv_id": "2506.15301v1",
+      "authors": "Shrestha Ghosh, Moritz Schneider, Carina Reinicke et 1 autres",
+      "tags": [
+        "arxiv"
+      ]
+    },
+    "2506.15680v1_Particle-Grid-Neural-Dynamics-for-Learning-Deformable-Object": {
+      "title": "Particle-Grid Neural Dynamics for Learning Deformable Object Models from RGB-D Videos",
+      "category": "02-pruning-sparsity",
+      "file_path": "papers/02-pruning-sparsity/notes/2506.15680v1_Particle-Grid-Neural-Dynamics-for-Learning-Deformable-Object.md",
+      "status": "🔴 Not Started",
+      "priority": "⭐ High / 🎯 Core Research / 📚 Background",
+      "date_added": "2025-06-20",
+      "arxiv_id": "2506.15680v1",
+      "authors": "Kaifeng Zhang, Baoyu Li, Kris Hauser et 1 autres",
+      "tags": [
+        "arxiv"
+      ]
+    },
+    "2506.15643v1_Revisiting-Randomization-in-Greedy-Model-Search": {
+      "title": "Revisiting Randomization in Greedy Model Search",
+      "category": "02-pruning-sparsity",
+      "file_path": "papers/02-pruning-sparsity/notes/2506.15643v1_Revisiting-Randomization-in-Greedy-Model-Search.md",
+      "status": "🔴 Not Started",
+      "priority": "⭐ High / 🎯 Core Research / 📚 Background",
+      "date_added": "2025-06-20",
+      "arxiv_id": "2506.15643v1",
+      "authors": "Xin Chen, Jason M. Klusowski, Yan Shuo Tan et 1 autres",
+      "tags": [
+        "arxiv"
+      ]
+    },
+    "2506.15679v1_Dense-SAE-Latents-Are-Features-Not-Bugs": {
+      "title": "Dense SAE Latents Are Features, Not Bugs",
+      "category": "02-pruning-sparsity",
+      "file_path": "papers/02-pruning-sparsity/notes/2506.15679v1_Dense-SAE-Latents-Are-Features-Not-Bugs.md",
+      "status": "🔴 Not Started",
+      "priority": "⭐ High / 🎯 Core Research / 📚 Background",
+      "date_added": "2025-06-20",
+      "arxiv_id": "2506.15679v1",
+      "authors": "Xiaoqing Sun, Alessandro Stolfo, Joshua Engels et 4 autres",
+      "tags": [
+        "arxiv"
+      ]
+    },
+    "2506.15555v1_Image-Processing-Techniques-to-Identify-and-Quantify-Spatiot": {
+      "title": "Image Processing Techniques to Identify and Quantify Spatiotemporal Carbon Cycle Extremes",
+      "category": "02-pruning-sparsity",
+      "file_path": "papers/02-pruning-sparsity/notes/2506.15555v1_Image-Processing-Techniques-to-Identify-and-Quantify-Spatiot.md",
+      "status": "🔴 Not Started",
+      "priority": "⭐ High / 🎯 Core Research / 📚 Background",
+      "date_added": "2025-06-20",
+      "arxiv_id": "2506.15555v1",
+      "authors": "Bharat Sharma, Jitendra Kumar, Auroop R. Ganguly et 1 autres",
+      "tags": [
+        "arxiv"
+      ]
+    },
+    "2506.15523v1_Atys-An-Efficient-Profiling-Framework-for-Identifying-Hotspo": {
+      "title": "Atys: An Efficient Profiling Framework for Identifying Hotspot Functions in Large-scale Cloud Microservices",
+      "category": "02-pruning-sparsity",
+      "file_path": "papers/02-pruning-sparsity/notes/2506.15523v1_Atys-An-Efficient-Profiling-Framework-for-Identifying-Hotspo.md",
+      "status": "🔴 Not Started",
+      "priority": "⭐ High / 🎯 Core Research / 📚 Background",
+      "date_added": "2025-06-20",
+      "arxiv_id": "2506.15523v1",
+      "authors": "Jiaqi Sun, Dingyu Yang, Shiyou Qian et 2 autres",
+      "tags": [
+        "arxiv"
+      ]
+    },
+    "2506.15681v1_GenRecal-Generation-after-Recalibration-from-Large-to-Small-": {
+      "title": "GenRecal: Generation after Recalibration from Large to Small Vision-Language Models",
+      "category": "03-distillation",
+      "file_path": "papers/03-distillation/notes/2506.15681v1_GenRecal-Generation-after-Recalibration-from-Large-to-Small-.md",
+      "status": "🔴 Not Started",
+      "priority": "⭐ High / 🎯 Core Research / 📚 Background",
+      "date_added": "2025-06-20",
+      "arxiv_id": "2506.15681v1",
+      "authors": "Byung-Kwan Lee, Ryo Hachiuma, Yong Man Ro et 2 autres",
+      "tags": [
+        "arxiv"
+      ]
+    },
+    "2506.15639v1_The-AI-Policy-Module-Developing-Computer-Science-Student-Com": {
+      "title": "The AI Policy Module: Developing Computer Science Student Competency in AI Ethics and Policy",
+      "category": "03-distillation",
+      "file_path": "papers/03-distillation/notes/2506.15639v1_The-AI-Policy-Module-Developing-Computer-Science-Student-Com.md",
+      "status": "🔴 Not Started",
+      "priority": "⭐ High / 🎯 Core Research / 📚 Background",
+      "date_added": "2025-06-20",
+      "arxiv_id": "2506.15639v1",
+      "authors": "James Weichert, Daniel Dunlap, Mohammed Farghally et 1 autres",
+      "tags": [
+        "arxiv"
+      ]
+    },
+    "2506.15547v1_An-efficient-construction-of-Razs-two-source-randomness-extr": {
+      "title": "An efficient construction of Raz's two-source randomness extractor with improved parameters",
+      "category": "03-distillation",
+      "file_path": "papers/03-distillation/notes/2506.15547v1_An-efficient-construction-of-Razs-two-source-randomness-extr.md",
+      "status": "🔴 Not Started",
+      "priority": "⭐ High / 🎯 Core Research / 📚 Background",
+      "date_added": "2025-06-20",
+      "arxiv_id": "2506.15547v1",
+      "authors": "Cameron Foreman, Lewis Wooltorton, Kevin Milner et 1 autres",
+      "tags": [
+        "arxiv"
+      ]
+    },
+    "2506.15522v1_Lessons-from-Training-Grounded-LLMs-with-Verifiable-Rewards": {
+      "title": "Lessons from Training Grounded LLMs with Verifiable Rewards",
+      "category": "03-distillation",
+      "file_path": "papers/03-distillation/notes/2506.15522v1_Lessons-from-Training-Grounded-LLMs-with-Verifiable-Rewards.md",
+      "status": "🔴 Not Started",
+      "priority": "⭐ High / 🎯 Core Research / 📚 Background",
+      "date_added": "2025-06-20",
+      "arxiv_id": "2506.15522v1",
+      "authors": "Shang Hong Sim, Tej Deep Pala, Vernon Toh et 5 autres",
+      "tags": [
+        "arxiv"
+      ]
+    },
+    "2506.15677v1_Embodied-Web-Agents-Bridging-Physical-Digital-Realms-for-Int": {
+      "title": "Embodied Web Agents: Bridging Physical-Digital Realms for Integrated Agent Intelligence",
+      "category": "03-distillation",
+      "file_path": "papers/03-distillation/notes/2506.15677v1_Embodied-Web-Agents-Bridging-Physical-Digital-Realms-for-Int.md",
+      "status": "🔴 Not Started",
+      "priority": "⭐ High / 🎯 Core Research / 📚 Background",
+      "date_added": "2025-06-20",
+      "arxiv_id": "2506.15677v1",
+      "authors": "Yining Hong, Rui Sun, Bingxuan Li et 7 autres",
+      "tags": [
+        "arxiv"
+      ]
+    }
+  },
+  "statistics": {
+    "total_papers": 48,
+    "read_papers": 0,
+    "in_progress": 0,
+    "high_priority": 48,
+    "by_category": {
+      "08-other-techniques": 6,
+      "01-quantization": 4,
+      "06-systems-serving": 18,
+      "05-kv-cache-compression": 8,
+      "02-pruning-sparsity": 7,
+      "03-distillation": 5
+    },
+    "by_status": {
+      "🔴 Not Started": 48,
+      "🟡 In Progress": 0,
+      "🟢 Completed": 0
+    },
+    "by_priority": {
+      "⭐ High": 48,
+      "🎯 Core Research": 0,
+      "📚 Background": 0
+    }
+  },
+  "last_update": "2025-06-20T13:12:59.803232"
+}

@@ -11,7 +11,7 @@
 
 ## 📊 Progress Overview
 
-**Total Papers:** 200+  
+**Total Papers:** 54+  
 **Completed:** 0  
 **In Progress:** 0  
 **High Priority Remaining:** 50  
@@ -55,3 +55,10 @@
 ---
 
 *Use the paper summary template from `tools/templates/paper-summary-template.md` for each paper*
+## 🆕 Nouveaux Papers (2025-06-20)
+
+**54 nouveaux papers ajoutés automatiquement depuis arXiv**
+
+Voir les catégories spécifiques pour les détails.
+
+---
