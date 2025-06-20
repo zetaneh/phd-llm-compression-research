@@ -39,7 +39,6 @@ This repository organizes my PhD research on Large Language Model compression te
 - [`papers/`](papers/) - Research papers organized by topic
 - [`research/`](research/) - Thesis development and experiments
 - [`tools/`](tools/) - Bibliography, scripts, templates
-- [`conferences-deadlines/`](conferences-deadlines/) - Important deadlines
 - [`collaborations/`](collaborations/) - Collaboration materials
 - [`presentations/`](presentations/) - Conference and seminar materials
 - [`code/`](code/) - Implementation and experiments
@@ -58,8 +57,5 @@ This repository organizes my PhD research on Large Language Model compression te
 
 ## 📝 Recent Updates
 
-### 2025-06-20 - Repository Auto-Update
-- Repository structure maintained and dates updated
-- Continued research progress tracking
 
 ---
